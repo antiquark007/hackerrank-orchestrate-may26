@@ -1,0 +1,120 @@
+Status,Product Area,Response,Justification,Request Type
+replied,general,"Based on our documentation:
+
+---
+title: ""Modify Test Expiration Time Prerequisite Modifying test expiration time""
+title_slug: ""modify-test-expiration-time-prerequisite-modifying-test-expiration-time""
+source_url: ""https://support.hackerrank.com/articles/2979262079-modify-test-expiration-time""
+article_slug: ""2979262079-modify-test-expiration-time""
+last_updated_exact: ""Mar 10, 2026, 9:05 PM""
+last_updated_relative: ""Last updated 2 months ago""
+breadcrumbs:
+  - ""Screen""
+  - ""Managing Tests""
+---
+
+# Modify Test Expiration Time Prer
+
+For more details, please refer to our support documentation or contact our support team.","Classified as product_issue in general (hackerrank). Retrieved relevant documentation from screen/managing-tests, screen/managing-tests. Response grounded in support corpus.",product_issue
+replied,authentication,"Based on our documentation:
+
+---
+title: ""Safelist/Allowlist URLs and IP Addresses for HackerRank Affected areas Allowlist URLs Allowlist IP addresses""
+title_slug: ""safelistallowlist-urls-and-ip-addresses-for-hackerrank-affected-areas-allowlist-urls-allowlist-ip-addresses""
+source_url: ""https://support.hackerrank.com/articles/6769658535-safelist-or-allowlist-urls-for-hackerrank""
+article_slug: ""6769658535-safelist-or-allowlist-urls-for-hackerrank""
+last_updated_exact: ""Nov 19, 2025, 7:52 PM""
+last_updated_relative: ""Last updated
+
+For more details, please refer to our support documentation or contact our support team.","Classified as product_issue in authentication (None). Retrieved relevant documentation from settings/user-account-settings-and-preferences, library/manage-question. Response grounded in support corpus.",product_issue
+replied,general,"Based on our documentation:
+
+---
+title: ""Create Test Variants""
+title_slug: ""create-test-variants""
+source_url: ""https://support.hackerrank.com/articles/7530103378-test-variants""
+article_slug: ""7530103378-test-variants""
+last_updated_exact: ""Jan 28, 2026, 9:48 AM""
+last_updated_relative: ""Last updated 3 months ago""
+breadcrumbs:
+  - ""Screen""
+  - ""Managing Tests""
+---
+
+# Create Test Variants
+
+_Last updated: Jan 28, 2026, 9:48 AM (Last updated 3 months ago)_
+
+Test variants allow you to create a single assessment that adapts to diff
+
+For more details, please refer to our support documentation or contact our support team.","Classified as product_issue in general (hackerrank). Retrieved relevant documentation from screen/managing-tests, screen/best-practice-guides. Response grounded in support corpus.",product_issue
+escalated,documentation,This issue requires specialist attention from our Support - hackerrank team. Thank you for reaching out - a specialist will assist you shortly.,High-risk keyword detected: hack,product_issue
+escalated,authentication,This issue requires specialist attention from our Support - hackerrank team. Thank you for reaching out - a specialist will assist you shortly.,High-risk keyword detected: hack,product_issue
+replied,general,"Based on our documentation:
+
+---
+title: ""Using incognito chats""
+title_slug: ""using-incognito-chats""
+source_url: ""https://support.claude.com/en/articles/12260368-using-incognito-chats""
+last_updated_iso: ""2026-04-09T17:26:28Z""
+article_id: ""13612163""
+breadcrumbs:
+  - ""Claude""
+  - ""Conversation management""
+---
+
+# Using incognito chats
+
+_Last updated: 2026-04-09T17:26:28Z_
+
+> Incognito chats are available to all Claude users (Free, Pro, Max, Team, and Enterprise plans).
+
+## What are incognito chats?
+
+Incognito chats are temporar
+
+For more details, please refer to our support documentation or contact our support team.","Classified as product_issue in general (claude). Retrieved relevant documentation from claude/conversation-management, claude/conversation-management. Response grounded in support corpus.",product_issue
+replied,general,"Based on our documentation:
+
+---
+title: ""Get started with Claude""
+title_slug: ""get-started-with-claude""
+source_url: ""https://support.claude.com/en/articles/8114491-get-started-with-claude""
+last_updated_iso: ""2026-03-25T16:27:42Z""
+article_id: ""8070452""
+breadcrumbs:
+  - ""Claude""
+  - ""Get started with Claude""
+---
+
+# Get started with Claude
+
+_Last updated: 2026-03-25T16:27:42Z_
+
+## What is Claude?
+
+Claude is a large language model (LLM) built by Anthropic. It's trained to be a helpful, honest, and harmless assistant with a conv
+
+For more details, please refer to our support documentation or contact our support team.","Classified as product_issue in general (None). Retrieved relevant documentation from claude/get-started-with-claude, claude-api-and-console/using-the-claude-api-and-console. Response grounded in support corpus.",product_issue
+escalated,general,This issue requires specialist attention from our Support - visa team. Thank you for reaching out - a specialist will assist you shortly.,High-risk keyword detected: stolen,product_issue
+escalated,features,This issue requires specialist attention from our Support - visa team. Thank you for reaching out - a specialist will assist you shortly.,High-risk keyword detected: stolen,product_issue
+replied,general,"Based on our documentation:
+
+---
+title: ""How can I delete my Claude account?""
+title_slug: ""how-can-i-delete-my-claude-account""
+source_url: ""https://support.claude.com/en/articles/9028421-how-can-i-delete-my-claude-account""
+last_updated_iso: ""2026-04-14T16:50:06Z""
+article_id: ""9184178""
+breadcrumbs:
+  - ""Claude""
+  - ""Account management""
+---
+
+# How can I delete my Claude account?
+
+_Last updated: 2026-04-14T16:50:06Z_
+
+Once you are logged in, click your initials or name in the lower left corner and select ""Settings."" Navigate t
+
+For more details, please refer to our support documentation or contact our support team.","Classified as product_issue in general (None). Retrieved relevant documentation from claude/account-management, general-help/release-notes. Response grounded in support corpus.",product_issue

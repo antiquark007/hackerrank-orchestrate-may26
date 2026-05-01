@@ -1,1 +1,363 @@
-issue,subject,company,response,product_area,status,request_type,justification
+Status,Product Area,Response,Justification,Request Type
+replied,authentication,"Based on our documentation:
+
+---
+title: ""Claude Console roles and permissions""
+title_slug: ""claude-console-roles-and-permissions""
+source_url: ""https://support.claude.com/en/articles/10186004-claude-console-roles-and-permissions""
+last_updated_iso: ""2026-04-08T16:57:17Z""
+article_id: ""10735891""
+breadcrumbs:
+  - ""Claude API and Console""
+  - ""Using the Claude API and Console""
+---
+
+# Claude Console roles and permissions
+
+_Last updated: 2026-04-08T16:57:17Z_
+
+The Claude Console uses a role-based access system with six distinct rol
+
+For more details, please refer to our support documentation or contact our support team.","Classified as product_issue in authentication (claude). Retrieved relevant documentation from claude-api-and-console/using-the-claude-api-and-console, claude-api-and-console/using-the-claude-api-and-console. Response grounded in support corpus.",product_issue
+escalated,security,This issue requires specialist attention from our Security Team team. Thank you for reaching out - a specialist will assist you shortly.,High-risk keyword detected: hack,product_issue
+escalated,billing,This issue requires specialist attention from our Billing Team team. Thank you for reaching out - a specialist will assist you shortly.,High-risk keyword detected: refund,product_issue
+escalated,billing,This issue requires specialist attention from our Engineering - hackerrank team. Thank you for reaching out - a specialist will assist you shortly.,High-risk keyword detected: refund,bug
+escalated,billing,This issue requires specialist attention from our Billing Team team. Thank you for reaching out - a specialist will assist you shortly.,Billing-related issue requires human review,product_issue
+escalated,security,This issue requires specialist attention from our Security Team team. Thank you for reaching out - a specialist will assist you shortly.,High-risk keyword detected: hack,product_issue
+replied,general,"Based on our documentation:
+
+---
+title: ""Coding Challenges FAQs""
+title_slug: ""coding-challenges-faqs""
+source_url: ""https://help.hackerrank.com/articles/1273631973-coding-challenges-faqs""
+article_slug: ""1273631973-coding-challenges-faqs""
+last_updated_exact: ""Nov 12, 2025, 4:32 PM""
+last_updated_relative: ""Last updated 5 months ago""
+breadcrumbs:
+  - ""Practice Coding Challenges""
+---
+
+# Coding Challenges FAQs
+
+_Last updated: Nov 12, 2025, 4:32 PM (Last updated 5 months ago)_
+
+**How does scoring work? **
+
+Refer to the [Scoring](h
+
+For more details, please refer to our support documentation or contact our support team.","Classified as bug in general (hackerrank). Retrieved relevant documentation from hackerrank_community/practice-coding-challenges, interviews/interview-settings. Response grounded in support corpus.",bug
+replied,general,"Based on our documentation:
+
+---
+title: ""Coding Challenges FAQs""
+title_slug: ""coding-challenges-faqs""
+source_url: ""https://help.hackerrank.com/articles/1273631973-coding-challenges-faqs""
+article_slug: ""1273631973-coding-challenges-faqs""
+last_updated_exact: ""Nov 12, 2025, 4:32 PM""
+last_updated_relative: ""Last updated 5 months ago""
+breadcrumbs:
+  - ""Practice Coding Challenges""
+---
+
+# Coding Challenges FAQs
+
+_Last updated: Nov 12, 2025, 4:32 PM (Last updated 5 months ago)_
+
+**How does scoring work? **
+
+Refer to the [Scoring](h
+
+For more details, please refer to our support documentation or contact our support team.","Classified as product_issue in general (hackerrank). Retrieved relevant documentation from hackerrank_community/practice-coding-challenges, screen/frequently-asked-questions. Response grounded in support corpus.",product_issue
+replied,performance,"Based on our documentation:
+
+---
+title: ""Best Practices for Running Group Assessments in Proctor Mode Prepare candidate systems in advance Ensure a stable internet connection Use supported web browsers Manage browser extensions Optimize the test environment on each system Set up webcams Set up lighting Prepare the physical environment""
+title_slug: ""best-practices-for-running-group-assessments-in-proctor-mode-prepare-candidate-systems-in-advance-ensure-a-stable-internet-connection-use-supported-web-browsers-manage-browser-ex
+
+For more details, please refer to our support documentation or contact our support team.","Classified as bug in performance (hackerrank). Retrieved relevant documentation from screen/test-integrity, screen/test-integrity. Response grounded in support corpus.",bug
+escalated,api,This issue requires specialist attention from our Product - hackerrank team. Thank you for reaching out - a specialist will assist you shortly.,High-risk keyword detected: hack,feature_request
+replied,general,"Based on our documentation:
+
+---
+title: ""Observation Mode in Interviews""
+title_slug: ""observation-mode-in-interviews""
+source_url: ""https://support.hackerrank.com/articles/1263202297-observation-mode-in-interviews""
+article_slug: ""1263202297-observation-mode-in-interviews""
+last_updated_exact: ""Apr 23, 2025, 11:42 AM""
+last_updated_relative: ""Last updated 1 year ago""
+breadcrumbs:
+  - ""Interviews""
+  - ""Manage Interviews""
+---
+
+# Observation Mode in Interviews
+
+_Last updated: Apr 23, 2025, 11:42 AM (Last updated 1 year ago)_
+
+Obse
+
+For more details, please refer to our support documentation or contact our support team.","Classified as product_issue in general (hackerrank). Retrieved relevant documentation from interviews/manage-interviews, interviews/interview-integrity. Response grounded in support corpus.",product_issue
+replied,general,"Based on our documentation:
+
+---
+title: ""I'm getting an API connection error. How can I fix it?""
+title_slug: ""im-getting-an-api-connection-error-how-can-i-fix-it""
+source_url: ""https://support.claude.com/en/articles/10366432-i-m-getting-an-api-connection-error-how-can-i-fix-it""
+last_updated_iso: ""2026-03-16T20:43:27Z""
+article_id: ""10980284""
+breadcrumbs:
+  - ""Claude API and Console""
+  - ""Troubleshooting""
+---
+
+# I'm getting an API connection error. How can I fix it?
+
+_Last updated: 2026-03-16T20:43:27Z_
+
+This error usually ind
+
+For more details, please refer to our support documentation or contact our support team.","Classified as bug in general (None). Retrieved relevant documentation from claude-api-and-console/troubleshooting, pro-and-max-plans/general. Response grounded in support corpus.",bug
+replied,documentation,"Based on our documentation:
+
+---
+title: ""Deleting Interview Questions""
+title_slug: ""deleting-interview-questions""
+source_url: ""https://support.hackerrank.com/articles/5520105382-deleting-interview-questions""
+article_slug: ""5520105382-deleting-interview-questions""
+last_updated_exact: ""Dec 13, 2024, 5:10 AM""
+last_updated_relative: ""Last updated 1 year ago""
+breadcrumbs:
+  - ""Interviews""
+  - ""Manage Interviews""
+---
+
+# Deleting Interview Questions
+
+_Last updated: Dec 13, 2024, 5:10 AM (Last updated 1 year ago)_
+
+## Overview
+
+Dur
+
+For more details, please refer to our support documentation or contact our support team.","Classified as product_issue in documentation (hackerrank). Retrieved relevant documentation from interviews/manage-interviews, claude/account-management. Response grounded in support corpus.",product_issue
+replied,billing,"Based on our documentation:
+
+---
+title: ""Pause Subscription""
+title_slug: ""pause-subscription""
+source_url: ""https://support.hackerrank.com/articles/5157311476-pause-subscription""
+article_slug: ""5157311476-pause-subscription""
+last_updated_exact: ""Mar 6, 2026, 12:18 AM""
+last_updated_relative: ""Last updated 2 months ago""
+breadcrumbs:
+  - ""Settings""
+  - ""User Account Settings and Preferences""
+---
+
+# Pause Subscription
+
+_Last updated: Mar 6, 2026, 12:18 AM (Last updated 2 months ago)_
+
+The **Pause Subscription** feature allows in
+
+For more details, please refer to our support documentation or contact our support team.","Classified as product_issue in billing (hackerrank). Retrieved relevant documentation from settings/user-account-settings-and-preferences, settings/user-account-settings-and-preferences. Response grounded in support corpus.",product_issue
+replied,general,"Based on our documentation:
+
+---
+title: ""Troubleshoot Claude error messages""
+title_slug: ""troubleshoot-claude-error-messages""
+source_url: ""https://support.claude.com/en/articles/12466728-troubleshoot-claude-error-messages""
+last_updated_iso: ""2026-03-16T20:32:12Z""
+article_id: ""13898432""
+breadcrumbs:
+  - ""Claude""
+  - ""Troubleshooting""
+---
+
+# Troubleshoot Claude error messages
+
+_Last updated: 2026-03-16T20:32:12Z_
+
+This article explains common error messages and warnings you may encounter when using Claude and provides guidanc
+
+For more details, please refer to our support documentation or contact our support team.","Classified as bug in general (claude). Retrieved relevant documentation from claude/troubleshooting, claude-code/launch-guides. Response grounded in support corpus.",bug
+escalated,general,This issue requires specialist attention from our Support - visa team. Thank you for reaching out - a specialist will assist you shortly.,High-risk keyword detected: stolen,product_issue
+replied,general,"Based on our documentation:
+
+---
+title: ""Create a Resume with Resume Builder""
+title_slug: ""create-a-resume-with-resume-builder""
+source_url: ""https://help.hackerrank.com/articles/9106957203-create-a-resume-with-resume-builder""
+article_slug: ""9106957203-create-a-resume-with-resume-builder""
+last_updated_exact: ""Mar 7, 2025, 4:17 PM""
+last_updated_relative: ""Last updated 1 year ago""
+breadcrumbs:
+  - ""Additional Resources""
+  - ""Job Search and Applications""
+---
+
+# Create a Resume with Resume Builder
+
+_Last updated: Mar 7, 2025, 4:
+
+For more details, please refer to our support documentation or contact our support team.","Classified as product_issue in general (hackerrank). Retrieved relevant documentation from hackerrank_community/additional-resources/job-search-and-applications, general-help/additional-resources. Response grounded in support corpus.",product_issue
+replied,general,"Based on our documentation:
+
+---
+title: ""Certifications FAQs""
+title_slug: ""certifications-faqs""
+source_url: ""https://help.hackerrank.com/articles/8941367927-certifications-faqs""
+article_slug: ""8941367927-certifications-faqs""
+last_updated_exact: ""Apr 1, 2026, 2:32 PM""
+last_updated_relative: ""Last updated 4 weeks ago""
+breadcrumbs:
+  - ""Certifications""
+---
+
+# Certifications FAQs
+
+_Last updated: Apr 1, 2026, 2:32 PM (Last updated 4 weeks ago)_
+
+**Can I update the name on my certificate?**
+
+Yes. You can update the name on your c
+
+For more details, please refer to our support documentation or contact our support team.","Classified as product_issue in general (hackerrank). Retrieved relevant documentation from hackerrank_community/certifications, hackerrank_community/certifications. Response grounded in support corpus.",product_issue
+escalated,billing,This issue requires specialist attention from our Billing Team team. Thank you for reaching out - a specialist will assist you shortly.,Billing-related issue requires human review,product_issue
+escalated,security,This issue requires specialist attention from our Product - claude team. Thank you for reaching out - a specialist will assist you shortly.,High-risk keyword detected: security,feature_request
+replied,general,"Based on our documentation:
+
+---
+title: ""Reporting, Blocking, and Removing Content from Claude""
+title_slug: ""reporting-blocking-and-removing-content-from-claude""
+source_url: ""https://support.claude.com/en/articles/10684638-reporting-blocking-and-removing-content-from-claude""
+last_updated_iso: ""2026-03-16T21:07:02Z""
+article_id: ""11419287""
+breadcrumbs:
+  - ""Privacy and legal""
+---
+
+# Reporting, Blocking, and Removing Content from Claude
+
+_Last updated: 2026-03-16T21:07:02Z_
+
+Anthropic supports a variety of ways to allow people
+
+For more details, please refer to our support documentation or contact our support team.","Classified as product_issue in general (claude). Retrieved relevant documentation from privacy-and-legal, safeguards. Response grounded in support corpus.",product_issue
+replied,general,"Based on our documentation:
+
+---
+title: ""Visa Consumer Support""
+source_url: ""https://www.visa.co.in/support.html""
+final_url: ""https://www.visa.co.in/support.html""
+last_modified: ""2026-01-06T04:51:28.352Z""
+description: ""If you have questions about your Visa card or need help with a lost or stolen card, visit Visa’s Consumer Support page.""
+---
+
+# Visa Consumer Support
+
+_Last modified: 2026-01-06T04:51:28.352Z_
+
+# Get support
+
+Need help? Give us a call For lost or stolen credit cards, please call us:
+
+| Country | Phone |
+|----
+
+For more details, please refer to our support documentation or contact our support team.","Classified as product_issue in general (visa). Retrieved relevant documentation from ., support/consumer. Response grounded in support corpus.",product_issue
+replied,general,"Based on our documentation:
+
+---
+title: ""How up-to-date is Claude's training data?""
+title_slug: ""how-up-to-date-is-claudes-training-data""
+source_url: ""https://support.claude.com/en/articles/8114494-how-up-to-date-is-claude-s-training-data""
+last_updated_iso: ""2026-04-16T13:30:36Z""
+article_id: ""8070455""
+breadcrumbs:
+  - ""Claude""
+  - ""Get started with Claude""
+---
+
+# How up-to-date is Claude's training data?
+
+_Last updated: 2026-04-16T13:30:36Z_
+
+While we're constantly updating Claude's data, each model has a knowledge cutoff:
+
+
+For more details, please refer to our support documentation or contact our support team.","Classified as product_issue in general (claude). Retrieved relevant documentation from claude/get-started-with-claude, claude/usage-and-limits. Response grounded in support corpus.",product_issue
+replied,general,"Based on our documentation:
+
+---
+title: ""Delete a Test Prerequisites Deleting a test""
+title_slug: ""delete-a-test-prerequisites-deleting-a-test""
+source_url: ""https://support.hackerrank.com/articles/9552481360-deleting-a-test""
+article_slug: ""9552481360-deleting-a-test""
+last_updated_exact: ""Sep 3, 2025, 11:09 AM""
+last_updated_relative: ""Last updated 8 months ago""
+breadcrumbs:
+  - ""Screen""
+  - ""Managing Tests""
+---
+
+# Delete a Test Prerequisites Deleting a test
+
+_Last updated: Sep 3, 2025, 11:09 AM (Last updated 8 months ago)_
+
+
+
+For more details, please refer to our support documentation or contact our support team.","Classified as product_issue in general (None). Retrieved relevant documentation from screen/managing-tests, screen/frequently-asked-questions. Response grounded in support corpus.",product_issue
+escalated,general,This issue requires specialist attention from our Support - visa team. Thank you for reaching out - a specialist will assist you shortly.,High-risk keyword detected: fraud,product_issue
+replied,general,"Based on our documentation:
+
+---
+title: ""I use Claude in Amazon Bedrock. Who do I contact for customer support inquiries?""
+title_slug: ""i-use-claude-in-amazon-bedrock-who-do-i-contact-for-customer-support-inquiries""
+source_url: ""https://support.claude.com/en/articles/7996921-i-use-claude-in-amazon-bedrock-who-do-i-contact-for-customer-support-inquiries""
+last_updated_iso: ""2026-03-16T21:17:13Z""
+article_id: ""7929296""
+breadcrumbs:
+  - ""Amazon Bedrock""
+---
+
+# I use Claude in Amazon Bedrock. Who do I contact for customer support
+
+For more details, please refer to our support documentation or contact our support team.","Classified as bug in general (claude). Retrieved relevant documentation from amazon-bedrock, amazon-bedrock. Response grounded in support corpus.",bug
+escalated,authentication,This issue requires specialist attention from our Support - hackerrank team. Thank you for reaching out - a specialist will assist you shortly.,High-risk keyword detected: hack,product_issue
+replied,settings,"Based on our documentation:
+
+---
+title: ""Set up the Claude LTI in Canvas by Instructure""
+title_slug: ""set-up-the-claude-lti-in-canvas-by-instructure""
+source_url: ""https://support.claude.com/en/articles/11725453-set-up-the-claude-lti-in-canvas-by-instructure""
+last_updated_iso: ""2026-03-16T21:04:03Z""
+article_id: ""12811565""
+breadcrumbs:
+  - ""Claude for Education""
+---
+
+# Set up the Claude LTI in Canvas by Instructure
+
+_Last updated: 2026-03-16T21:04:03Z_
+
+This article provides information on how to enable the Claude LTI integra
+
+For more details, please refer to our support documentation or contact our support team.","Classified as product_issue in settings (claude). Retrieved relevant documentation from claude-for-education, claude-code. Response grounded in support corpus.",product_issue
+replied,general,"Based on our documentation:
+
+---
+title: ""Rules + Interchange""
+source_url: ""https://www.visa.co.in/support/small-business/regulations-fees.html""
+final_url: ""https://www.visa.co.in/support/small-business/regulations-fees.html""
+last_modified: ""2019-12-05T02:09:08.883Z""
+description: ""Visa provides its partners with insight into the Visa Rules. Learn about merchant fees, rules and other features of merchant support for partners.""
+---
+
+# Rules + Interchange
+
+_Last modified: 2019-12-05T02:09:08.883Z_
+
+Our commitment to transparenc
+
+For more details, please refer to our support documentation or contact our support team.","Classified as product_issue in general (visa). Retrieved relevant documentation from support/small-business, support/consumer. Response grounded in support corpus.",product_issue
